@@ -1,12 +1,8 @@
+** WEB CRAWLER **
+
 # Udacity CS101 course project
-[visit GitHub](https://www.github.com)
-# *******Web-crawler*********** 
 
-<<<<<<< HEAD
+[visit Udacity](https://www.udacity.com)
+    [Guid site 1 ](http://sahilmutneja.com/blog/2015/04/build-a-search-engine-part-1/)
 
-=======
->>>>>>> c4a1d63200dcefe791a9429ceb61892f338a68ff
-# this code code belongs to udacity course about web crawler
-  that has published at udacity CS101 course 
-# i have submmit this . 
 
