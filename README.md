@@ -1,4 +1,4 @@
- ### **WEB CRAWLER** 
+ ### WEB CRAWLER 
 
  *Udacity CS101 course project*
 
